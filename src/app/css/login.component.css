@@ -1,0 +1,46 @@
+.login_body{
+  height: 100vh;
+  max-width: 100%;
+  background-image: url("../../assets/misc/logo_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#container{
+  height: 100vh;
+  max-width: 100%;
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#container_glass{
+  height: 77vh;
+  width: 54%;
+  background: #ffffff9c;
+  border-radius: 2%;
+
+}
+
+#login_button{
+  padding: 4% 23%;
+}
+
+#ascb_logo{
+  position: absolute;
+  top: 0
+}
+
+#image_1{
+  position: inherit;
+  height: 63vh
+}
+
+#ascb_logo_container{
+  top:0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+
