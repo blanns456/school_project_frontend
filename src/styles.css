@@ -20,6 +20,12 @@
 .f-w500{
   font-weight: 500;
 }
+.f-w600{
+  font-weight: 600;
+}
+.f-w700{
+  font-weight: 700;
+}
 
 .login_body{
   height: 100vh;
